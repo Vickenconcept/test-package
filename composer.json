@@ -1,0 +1,17 @@
+{
+    "name": "vital/test-package",
+    "description": "A simple PHP package to calculate the area of a rectangle",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RectangleArea\\": "src/"
+        }
+    }
+}
