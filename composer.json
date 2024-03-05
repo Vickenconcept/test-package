@@ -1,6 +1,6 @@
 {
     "name": "vital/test-package",
-    "description": "A simple PHP package to calculate the area of a rectangle",
+    "description": "A simple PHP package to calculate the area of a Shapes",
     "type": "library",
     "version": "1.0.0",
     "license": "MIT",
