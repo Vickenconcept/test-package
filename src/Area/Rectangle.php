@@ -1,6 +1,6 @@
 <?php
 
-namespace RectangleArea;
+namespace Area;
 
 class Rectangle
 {
