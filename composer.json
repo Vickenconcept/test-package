@@ -12,7 +12,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Area\\": "src/Area/"
+            "Area\\": "src",
+            "Area\\Shapes\\": "src/Area/"
         }
     }
 }
