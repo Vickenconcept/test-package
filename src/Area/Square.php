@@ -4,8 +4,8 @@ namespace Area;
 
 class Square
 {
-    public static function area($param)
+    public static function area($length)
     {
-        return $param * $param;
+        return $length * $length;
     }
 }
