@@ -1,5 +1,5 @@
 {
-    "name": "vital/test-package",
+    "name": "shape/test-package",
     "description": "A simple PHP package to calculate the area of a Shapes",
     "type": "library",
     "version": "1.2.0",
